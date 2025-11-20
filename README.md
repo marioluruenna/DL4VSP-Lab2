@@ -166,10 +166,8 @@ For **Lab 2 – Session 1**, you need the following items:
    - `000002.JPEG`
    - …
 
-In this repository, **both checkpoints and the compressed dog image folder are already tracked** and placed in the repo root:
+In this repository, **the compressed dog image folder is already tracked** and placed in the repo root:
 
-- `DL4VSP-Lab2/R_101.pth`
-- `DL4VSP-Lab2/MEGA_R_101.pth`
 - `DL4VSP-Lab2/image_folder.zip`
 
 If for some reason these files are missing (e.g., due to size limits or a shallow clone), they should be downloaded from the course platform and placed in the same locations.
