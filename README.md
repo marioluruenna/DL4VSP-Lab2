@@ -29,7 +29,7 @@ After cloning this repository, the relevant structure is:
 
 DL4VSP-Lab2/  
 ├── README.md  
-├── image_folder.zip 
+├── image_folder.zip  
 ├── configs/  
 ├── demo/  
 ├── mega_core/  
