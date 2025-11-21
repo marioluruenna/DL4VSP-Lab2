@@ -189,7 +189,7 @@ If they are missing, copy/download them into the repo root and re-run the comman
 
 This repository includes `image_folder.zip` already in the root. To create the directory `data/image_folder/` with all frames:
 
-    cd /path/to/DL4VSP-Lab2
+    cd ~/DL4VSP-Lab2
     mkdir -p data
     cd data
     unzip ../image_folder.zip
