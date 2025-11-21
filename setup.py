@@ -61,7 +61,7 @@ setup(
     version="0.1",
     author="Scalsol",
     #url="https://github.com/Scalsol/mega.pytorch",
-    url="https://github.com/marioluruenna/DL4VSP-Lab2"
+    url="https://github.com/marioluruenna/DL4VSP-Lab2",
     description="video object detection in pytorch",
     packages=find_packages(exclude=("configs", "tests",)),
     # install_requires=requirements,
