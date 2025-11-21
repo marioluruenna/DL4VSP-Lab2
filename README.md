@@ -252,16 +252,16 @@ Each of these is a dog frame with **BASE detections** (bounding boxes, class lab
 ### 5.2 MEGA – inference on `data/image_folder`
 
 1. Create the output directory for MEGA (inside `outputs/`):
-
+```bash
     `mkdir -p outputs/mega_dog`
-
+```
 2. Run the demo using the MEGA model:
-
+```bash
     `python demo/demo.py mega configs/MEGA/vid_R_101_C4_MEGA_1x.yaml MEGA_R_101.pth \
         --suffix ".JPEG" \
         --visualize-path data/image_folder \
         --output-folder outputs/mega_dog`
-
+```
 Where:
 
 - `mega` → selects the MEGA method.
